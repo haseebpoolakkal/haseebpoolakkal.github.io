@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcfa81b0.css",
-    "main.js": "/static/js/main.9939d363.js",
+    "main.css": "/static/css/main.c8c830f5.css",
+    "main.js": "/static/js/main.76d2b040.js",
     "static/media/fliebae.png": "/static/media/fliebae.46457ac9a8ebef75da08.png",
     "static/media/phoenix.png": "/static/media/phoenix.044cffa5d593a59f8e4d.png",
     "static/media/profile.jpg": "/static/media/profile.5c5633040b2400e18925.jpg",
@@ -46,11 +46,11 @@
     "static/media/angular.svg": "/static/media/angular.5de8a0b112e415ba187a08415e7582be.svg",
     "static/media/figma.svg": "/static/media/figma.a8c7de3f40f6bc3909c9e1c4b40c6ef8.svg",
     "static/media/vue.svg": "/static/media/vue.0747f6ef54c1a4334ff0f698b9f5129c.svg",
-    "main.dcfa81b0.css.map": "/static/css/main.dcfa81b0.css.map",
-    "main.9939d363.js.map": "/static/js/main.9939d363.js.map"
+    "main.c8c830f5.css.map": "/static/css/main.c8c830f5.css.map",
+    "main.76d2b040.js.map": "/static/js/main.76d2b040.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcfa81b0.css",
-    "static/js/main.9939d363.js"
+    "static/css/main.c8c830f5.css",
+    "static/js/main.76d2b040.js"
   ]
 }
