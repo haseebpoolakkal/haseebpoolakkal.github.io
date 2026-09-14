@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.12ba6e5e.css",
-    "main.js": "/static/js/main.e7132044.js",
+    "main.css": "/static/css/main.9349e4ac.css",
+    "main.js": "/static/js/main.a9277d57.js",
+    "static/media/profile.png": "/static/media/profile.e4e492f59725c9fb853c.png",
     "static/media/fliebae.png": "/static/media/fliebae.46457ac9a8ebef75da08.png",
     "static/media/phoenix.png": "/static/media/phoenix.044cffa5d593a59f8e4d.png",
-    "static/media/profile.jpg": "/static/media/profile.5c5633040b2400e18925.jpg",
     "static/media/jenkins.svg": "/static/media/jenkins.a4e79569f5c240b516291f463cae08f2.svg",
     "static/media/tux.svg": "/static/media/tux.1457cab100a70d1f621e69cc44465eda.svg",
     "static/media/kanniyadath.jpg": "/static/media/kanniyadath.9bf5502e972d0a6de3b3.jpg",
@@ -46,11 +46,11 @@
     "static/media/angular.svg": "/static/media/angular.5de8a0b112e415ba187a08415e7582be.svg",
     "static/media/figma.svg": "/static/media/figma.a8c7de3f40f6bc3909c9e1c4b40c6ef8.svg",
     "static/media/vue.svg": "/static/media/vue.0747f6ef54c1a4334ff0f698b9f5129c.svg",
-    "main.12ba6e5e.css.map": "/static/css/main.12ba6e5e.css.map",
-    "main.e7132044.js.map": "/static/js/main.e7132044.js.map"
+    "main.9349e4ac.css.map": "/static/css/main.9349e4ac.css.map",
+    "main.a9277d57.js.map": "/static/js/main.a9277d57.js.map"
   },
   "entrypoints": [
-    "static/css/main.12ba6e5e.css",
-    "static/js/main.e7132044.js"
+    "static/css/main.9349e4ac.css",
+    "static/js/main.a9277d57.js"
   ]
 }
